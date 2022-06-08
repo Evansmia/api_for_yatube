@@ -9,10 +9,10 @@
 ## Как запустить проект
 
 ### Клонировать репозиторий
-```git clone https://github.com/Evansmia/api_final_yatube.git```
+```git clone https://github.com/Evansmia/api_for_yatube.git```
 ### Создать и активировать виртуальное окружение
 ```
-python3 -m venv venv<br>
+python3 -m venv venv
 source venv/Scripts/activate  #для Windows
 source venv/bin/activate      #для Linux и macOS
 ```
